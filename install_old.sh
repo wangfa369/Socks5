@@ -163,7 +163,7 @@ echo "默认用户名: qq123456"
 echo "默认密码  : qq654321"
 echo "默认端口  : 8555"
 echo ""
-echo "添加Telegram群组@Socks55555及时获取更新"
+echo "添加"
 echo ""
 fi
 }
