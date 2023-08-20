@@ -1,7 +1,3 @@
-# 该脚本已失效，请移至新脚本[nps-socks5](https://github.com/wyx176/nps-socks5)
-# 该脚本已失效，请移至新脚本[nps-socks5](https://github.com/wyx176/nps-socks5)
-# 该脚本已失效，请移至新脚本[nps-socks5](https://github.com/wyx176/nps-socks5)
-# 该脚本已失效，请移至新脚本[nps-socks5](https://github.com/wyx176/nps-socks5)
 # Socks5服务一键搭建脚本
 - [x] 稳定版V1.1.8
 
@@ -24,8 +20,6 @@
 - 输入 s5 即可启动控制面板
 
 ## 一键安装或更新到最新 ##
- <pre><code>wget -q -N --no-check-certificate https://xxraw.githubusercontent.com/wyx176/Socks5/master/install.sh && bash install.sh</code></pre>
-
 ## 相关文件路径 ##
 - 1.端口文件<br>
  /etc/sysconfig/ss5<br>
@@ -53,8 +47,6 @@
 -2019.03.23 v1.1.5<br>
 1.解决谷歌云部分系统搭建后异常问题<br>
 问题：使用谷歌云搭建失败、搭建后无法正常使用、无法启动控制面。<br>
-推测原因:帐号权限不够完整。<br>
-解决方案：使用ssh软件(xshell)通过root权限账户登录，然后正常搭建即可。参考视频http://t.cn/EJzT2YR<br><br>
 2.执行命令出现 wget:command not found<br>
 解决方案：先执行命令 <pre><code>yum -y install wget</code></pre>然后正常搭建。<br>
 
@@ -71,4 +63,3 @@ CentOS-6.4-86<br>
 centos-6.9-x86_64<br>
 
 ## 写在最后 ##
-Telegram交流群:https://t.me/Socks55555
