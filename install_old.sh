@@ -143,9 +143,9 @@ rm -rf /root/install.sh
 if [ ! -f "/usr/local/bin/s5" ] || [ ! -f "/etc/opt/ss5/service.sh" ]; then
   echo ""
   echo "缺失文件，安装失败！！！"
-  echo "发送邮件反馈bug ：wyx176@gmail.com"
+  echo "发送邮件反馈"
   echo "或者添加Telegram群反馈"
-  echo "Telegram群：t.me/Socks55555"
+  echo "Telegram"
   exit 0
 
 else
